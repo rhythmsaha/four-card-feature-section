@@ -67,8 +67,8 @@ export default function Home() {
                             </p>
                             <div>
                                 <img
-                                    src="/images/icon-supervisor.svg"
-                                    alt="supervisor"
+                                    src="/images/icon-karma.svg"
+                                    alt="karma"
                                     className="ml-auto mt-8"
                                 />
                             </div>
